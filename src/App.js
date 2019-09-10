@@ -1,11 +1,11 @@
 import React from 'react';
 
-import OpenGL from './OpenGL/OpenGL';
+import Screen from './Screen/Screen';
 
 const App = () => {
 
   return (
-    <OpenGL />
+    <Screen />
   );
 };
 
